@@ -1,3 +1,1 @@
-TODO:
-
-Add prompts for more chkdsk flags
+This repo has been moved to https://bitbucket.org/marcuseaton/frontdisk/
